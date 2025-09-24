@@ -1,4 +1,4 @@
-# Ex.No:2a To develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" 
+# Ex.No:2b To develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" 
 
 ## AIM:
 
@@ -10,15 +10,39 @@ To create a two screens , first screen will take one number input from user. Aft
 Latest Version Android Studio
 
 ## ALGORITHM:
+1.Start
 
+2.Create a new project in Android Studio with Empty Activity.
+
+3.In the layout file (activity_main.xml):
+
+Add a Text Field.
+
+Add a Button labeled "Explicit Intent".
+
+4.In MainActivity.java:
+
+Initialize the button.
+
+On click, create an Explicit Intent to launch SecondActivity.
+
+5.Create a new SecondActivity.java.
+
+Display a message "This is Second Activity".
+
+6.Declare SecondActivity in AndroidManifest.xml.
+
+7.Run the app → Clicking the button opens the second screen.
+
+8.Stop
 
 
 ## PROGRAM:
 ```
 /*
 Program to print the text “ExplicitIntent”.
-Developed by:
-Registeration Number :
+Developed by: SARANYA S.
+Registeration Number : 212223220101
 */
 ```
 
