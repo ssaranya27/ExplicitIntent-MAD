@@ -1,4 +1,4 @@
-# Ex.No:2b develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" 
+# Ex.No:2b develop program to create a text field and a buttons “Explicit Intent".
 
 ## AIM:
 
