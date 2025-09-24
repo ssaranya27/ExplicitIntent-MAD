@@ -1,8 +1,8 @@
-# Ex.No:2b To develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" 
+# Ex.No:2b develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" 
 
 ## AIM:
 
-To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+To develop program to create a text field and a buttons “Explicit Intent". When you click /press Explicit button it should open Second Screen  and print message as" This is Second Activity" .
 
 
 ## EQUIPMENTS REQUIRED:
